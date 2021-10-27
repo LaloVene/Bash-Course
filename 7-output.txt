@@ -1,0 +1,16 @@
+total 52
+drwxr-xr-x 3 lalo lalo 4096 Oct 26 22:24 .
+drwxr-xr-x 4 lalo lalo 4096 Oct 26 21:27 ..
+drwxr-xr-x 8 lalo lalo 4096 Oct 26 22:11 .git
+-rwx------ 1 lalo lalo   44 Oct 26 21:31 1-Hello-Bash-Scripting.sh
+-rwx------ 1 lalo lalo  104 Oct 26 21:35 2-Redirect-to-file.sh
+-rwx------ 1 lalo lalo  183 Oct 26 21:39 3-Comments.sh
+-rwx------ 1 lalo lalo  783 Oct 26 21:54 4-Conditional-Statements.sh
+-rwx------ 1 lalo lalo  484 Oct 26 22:10 5-Loops.sh
+-rwx------ 1 lalo lalo  248 Oct 26 22:18 6-Script-Input.sh
+-rwx------ 1 lalo lalo  154 Oct 26 22:25 7-Script-Output.sh
+-rw-r--r-- 1 lalo lalo   51 Oct 26 22:25 7-both.txt
+-rw-r--r-- 1 lalo lalo    0 Oct 26 22:25 7-error.txt
+-rw-r--r-- 1 lalo lalo    0 Oct 26 22:25 7-output.txt
+-rw-r--r-- 1 lalo lalo  546 Oct 26 22:11 README.md
+-rw-r--r-- 1 lalo lalo   19 Oct 26 21:34 file.txt
